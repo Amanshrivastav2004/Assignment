@@ -5,7 +5,6 @@ import { ProductDetails } from './pages/ProductDetails'
 import { Cart } from './pages/Cart'
 import { Checkout } from './pages/Checkout'
 import { CartProvider } from './context/CartContext'
-import { useState } from "react";
 
 function App() {
   return (
